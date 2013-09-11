@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-./node_modules/.bin/mocha
+./node_modules/.bin/mocha $@
