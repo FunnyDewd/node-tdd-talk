@@ -1,0 +1,21 @@
+{
+  "name": "node-tdd-talk",
+  "version": "0.1.0",
+  "description": "Supporting files for getting started with TDD in Node.js.",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/FunnyDewd/node-tdd-talk.git"
+  },
+  "keywords": [
+    "Node",
+    "TDD"
+  ],
+  "author": "Victor Aponte",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FunnyDewd/node-tdd-talk/issues"
+  },
+  "devDependencies": {
+    "mocha": "~1.12.1"
+  }
+}
